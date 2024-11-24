@@ -1,0 +1,1 @@
+# BSPWM-CONFIG
